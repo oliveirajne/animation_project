@@ -3,7 +3,7 @@
 ## Sobre
 
 **Nome**: Jayne de Oliveira  
-**Email**: oliveirajne@gmail.com
+**Email**: oliveirajne@gmail.com  
 **VIDEO DE DEMONSTRAÇÃO:** https://youtu.be/lRYvIcgwap8?si=tJeEGyqmkZV5ptTO
 
 Este projeto consiste em um **personagem 3D** animado e configurado para **mover-se** dentro do Unity. O modelo foi **modelado e animado no Blender** e depois importado para o Unity, onde foi configurado para andar com animações de **Idle** (parado) e **Walk** (andando). O controle do movimento é feito através das teclas **WSAD**, e a troca entre **duas câmeras** (primeira e terceira pessoa) é realizada com a tecla **Q**.
